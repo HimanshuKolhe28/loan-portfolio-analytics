@@ -67,14 +67,14 @@ All data is **synthetic** (seeded random). Provisioning rates are simplified fro
 - **MBA** — D.Y. Patil University, Navi Mumbai (2024–2026)
 - **B.Tech** — JSPM's Rajarshi Shahu College of Engineering, Tathawade, Pune (2019–2023)
 
-Aspiring **MIS Executive** combining an engineering background in logic and data with MBA training in business reporting.
+Aspiring **MIS / Data Analyst** combining an engineering background in logic and data with MBA training in business and finance reporting.
 
 **Skills shown in this project:**
-- MS Excel: VLOOKUP, Pivot Tables, SUMIFS / COUNTIFS, IF / IFERROR, conditional formatting, charts
-- Google Sheets: shared reports and dashboards
-- Data verification: catching duplicates, missing codes and entry errors before reporting
-- Consolidating data from Sales, Accounts and Stores into one MIS report
+- Advanced Excel: SUMIFS / COUNTIFS / SUMPRODUCT, INDEX-MATCH, PMT / PV / IPMT / PPMT, named ranges
+- Interactive dashboards with dropdown filters, KPIs and charts
+- Financial reporting: NPA classification, provisioning, receivables-style ageing (DPD buckets)
+- Data controls: input validation, reconciliation checks, conditional formatting
 
 📧 himanshukolhe2002@gmail.com · 📍 Pune · 🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-kolhe/)
 
-*Open to MIS Executive / MIS Analyst / Reporting roles in Pune.*
+*Open to MIS Executive / MIS Analyst / Data Analyst roles in Pune.*
