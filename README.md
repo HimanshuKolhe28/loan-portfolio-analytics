@@ -61,5 +61,20 @@ Output: `output/Loan_Portfolio_Risk_Analytics.xlsx`. Open in Excel 2016+ (Micros
 ## ⚠️ Disclaimer
 All data is **synthetic** (seeded random). Provisioning rates are simplified from RBI IRACP norms for illustration and are not regulatory advice.
 
-## 🧑‍💻 Author
-**Abhijit** — Full-stack developer (Angular · Django · AWS) with experience in BFSI digital-agreement platforms.
+## 👤 Author
+
+**Himanshu Kolhe**
+- **MBA** — D.Y. Patil University, Navi Mumbai (2024–2026)
+- **B.Tech** — JSPM's Rajarshi Shahu College of Engineering, Tathawade, Pune (2019–2023)
+
+Aspiring **MIS Executive** combining an engineering background in logic and data with MBA training in business reporting.
+
+**Skills shown in this project:**
+- MS Excel: VLOOKUP, Pivot Tables, SUMIFS / COUNTIFS, IF / IFERROR, conditional formatting, charts
+- Google Sheets: shared reports and dashboards
+- Data verification: catching duplicates, missing codes and entry errors before reporting
+- Consolidating data from Sales, Accounts and Stores into one MIS report
+
+📧 himanshukolhe2002@gmail.com · 📍 Pune · 🔗 [LinkedIn](https://www.linkedin.com/in/himanshu-kolhe/)
+
+*Open to MIS Executive / MIS Analyst / Reporting roles in Pune.*
